@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NadLan", "NadLan\NadLan.csproj", "{B9A3F9D0-5013-4CE9-8125-1E1CDDC837B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPI", "WEBAPI\WEBAPI.csproj", "{F2FC29BA-689B-4F6D-A638-68876A581D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A3F9D0-5013-4CE9-8125-1E1CDDC837B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A3F9D0-5013-4CE9-8125-1E1CDDC837B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A3F9D0-5013-4CE9-8125-1E1CDDC837B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A3F9D0-5013-4CE9-8125-1E1CDDC837B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FC29BA-689B-4F6D-A638-68876A581D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FC29BA-689B-4F6D-A638-68876A581D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FC29BA-689B-4F6D-A638-68876A581D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FC29BA-689B-4F6D-A638-68876A581D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C1D720-75FC-446B-8F8A-8DC8065802BE}
+	EndGlobalSection
+EndGlobal
